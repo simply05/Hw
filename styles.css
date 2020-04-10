@@ -1,0 +1,6 @@
+body{background-color: gray;}
+.center{position:absolute; text-align: center; width: 100%}
+.colorfirst{color: white;}			
+.colorthird{color: #66ffff;}		
+.yea{float: left;}
+.floatingleft(width: 100%; margin-left: 300px}
